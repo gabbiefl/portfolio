@@ -1,0 +1,30 @@
+@import "variables";
+
+@mixin social-icon($bg-color, $hover-bg-color) {
+  font-size: 2rem;
+  color: $bg-color;
+  transition: color 0.3s ease-in-out;
+  &:hover {
+    color: $hover-bg-color;
+  }
+}
+
+@mixin button-style(
+  $bg-color,
+  $text-color,
+  $hover-bg-color,
+  $hover-text-color
+) {
+  background-color: $bg-color;
+  color: $text-color;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $hover-bg-color;
+    color: $hover-text-color;
+  }
+}
