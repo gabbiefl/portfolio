@@ -1,16 +1,7 @@
 # ✨ Portfólio Pessoal
 
 Bem-vindo(a) ao repositório do meu site de portfólio!  
-Este projeto foi desenvolvido para apresentar um pouco sobre mim, minhas habilidades e projetos na área de desenvolvimento web.
-
-
-## 🖥 Sobre o Projeto
-
-- **HTML semântico:** estruturado para garantir acessibilidade e boas práticas.
-- **Sass:** organização e reutilização de estilos com variáveis e mixins.
-- **Bootstrap:** layout totalmente responsivo para diferentes tamanhos de tela.
-- **JavaScript:** funcionalidades dinâmicas como **modo escuro** e navegação interativa.
-- **Design centrado no usuário:** interface clara, moderna e intuitiva.
+Este projeto foi desenvolvido para apresentar um pouco sobre mim, minhas habilidades e projetos na área de desenvolvimento.
 
 
 ## 🚀 Tecnologias Utilizadas
@@ -24,6 +15,12 @@ Este projeto foi desenvolvido para apresentar um pouco sobre mim, minhas habilid
 
 [Clique aqui para abrir o site](https://gabbiefl.github.io/portfolio/)
 
+## 📸 Capturas de Tela
+![Home](./assets/img/screenshots/screenshot-1.png)
+![Sobre](./assets/img/screenshots/screenshot-2.png)
+![Projetos](./assets/img/screenshots/screenshot-3.png)
+![Habilidades](./assets/img/screenshots/screenshot-4.png)
+![Contato](./assets/img/screenshots/screenshot-5.png)
 
 ## 📬 Contato
 
